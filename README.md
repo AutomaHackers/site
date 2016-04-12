@@ -1,2 +1,2 @@
 # AutomaHackers 
-Visite nosso site: [http://automahackers.github.io/site]
+Visite nosso site: http://automahackers.github.io/site
